@@ -1,12 +1,9 @@
 # Lyrics Generation Using Echo State Networks
 
----
 This project uses a machine learning method, *Echo State Networks (ESNs)*, to generate lyrics. This project aims at finding out how *ESNs* are suited best for lyrics generation and does not intend to beat the state of the art lyrics generator or provide an alternative method to it.
 
----
 ## Repository Content
 
----
 * data/ - Contains the lyrics dataset that was used.
 * docs/ - Contains the written report of the project.
 * src/ - Directory containing implementation of all the methods.
